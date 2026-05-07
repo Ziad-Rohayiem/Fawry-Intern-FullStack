@@ -1,0 +1,6 @@
+bin/
+*.class
+.idea/
+.vscode/
+*.swp
+.DS_Store
